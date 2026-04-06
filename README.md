@@ -22,7 +22,7 @@ This is an example project for a blog post that demonstrates how to combine Mail
    cp .env.example .env
    ```
 
-   Update `.env` with your `MAILISK_API_KEY`, `MAILISK_FROM_NUMBER` (sender), `MAILISK_SMS_NUMBER` (the recipient number you will log in with), and (optionally) a custom `OTP_TTL_MINUTES`.
+   Update .env with your MAILISK_API_KEY, MAILISK_SMS_NUMBER (the recipient number you will log in with), and (optionally) a custom OTP_TTL_MINUTES.
 
 3. Start the development server:
 
